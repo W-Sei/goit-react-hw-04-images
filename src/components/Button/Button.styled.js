@@ -9,6 +9,7 @@ export const ButtonLoadMoreSt = styled.button`
   display: block;
   margin: 0 auto;
   margin-top: 10px;
+  margin-bottom: 10px;
   color: #fff;
   border: 0;
   text-decoration: none;
